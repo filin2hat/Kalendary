@@ -1,4 +1,4 @@
-package com.biryulun.develop.ui.theme
+package develop.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
